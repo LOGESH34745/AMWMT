@@ -6,8 +6,8 @@
 #include "camera_pins.h"
 
 // WiFi credentials
-const char *ssid = "Airtel_loge_5267";
-const char *password = "Air@93925";
+const char *ssid = "";
+const char *password = "";
 
 void startCameraServer();
 void setupLedFlash(int pin);
