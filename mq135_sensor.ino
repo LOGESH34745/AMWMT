@@ -3,17 +3,17 @@
 #include <ThingSpeak.h>
 
 // WiFi credentials
-const char* ssid = "Airtel_loge_5267";
-const char* password = "Air@93925";
+const char* ssid = "";
+const char* password = "";
 
 // Telegram Bot credentials
-const char* botToken = "8090171057:AAFokmFhV7Kr1q7WU1SdXFLV7ej-vFpTItk";
-const char* chatID = "7927407309";
+const char* botToken = "";
+const char* chatID = "";
 
 // ThingSpeak settings
 WiFiClient client;
-unsigned long channelNumber = 2968320;
-const char *writeAPIKey = "URDOOVICBCWPWKGF";
+unsigned long channelNumber = ;
+const char *writeAPIKey = "";
 
 // Sensor settings
 int mq135Pin = A0;
