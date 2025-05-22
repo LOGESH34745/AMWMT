@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "Airtel_loge_5267";
-const char* password = "Air@93925";
+const char* ssid = "";
+const char* password = "";
 
 void setup() {
   Serial.begin(115200);
